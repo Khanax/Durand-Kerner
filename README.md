@@ -28,19 +28,6 @@ roots = Durand_Kerner(args, polyeval, ITERATIONS)
 
 ```
 
-### API
-
-```
-from Durand_Kerner import DK
-
--0.8853+0.6337 j
-
-0.5853+1.1596 j
-
-0.5853-1.1596 j
-
-```
-
 # A Crazy Case
 
 To find the roots for $$87x^{20} + 54 x^{19} -13 x^{18} + 120 x^{17} + 14 x^{16} + 23 x^{15} + 51 x^{14} - 312 x^{13}+ 35 x^{12} + 43 x^{11} + 3 x^{10}  $$
