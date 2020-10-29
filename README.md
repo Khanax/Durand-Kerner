@@ -29,10 +29,10 @@ roots = Durand_Kerner(args, polyeval, ITERATIONS)
 ```
 
 # A Crazy Case
-
+```math
 To find the roots for $$87x^{20} + 54 x^{19} -13 x^{18} + 120 x^{17} + 14 x^{16} + 23 x^{15} + 51 x^{14} - 312 x^{13}+ 35 x^{12} + 43 x^{11} + 3 x^{10}  $$
 $$+ 213 x^{9} + 43 x^{8} + 1x^{7} + 32x^{6} +  98x^{5} + 123 x^{4} +  90x^{3} + 2x^{2} + 1x + 823$$
-
+```
 ### Output
 
 ```
