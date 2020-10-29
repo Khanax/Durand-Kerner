@@ -5,7 +5,7 @@ Note that there are limitations that have not beed resolved..such as exploding c
 
 # Example
 
-To find the roots for $$5 x^4 + 3 x^3 + 4 x^2 + 8 x + 10$$
+To find the roots for ```   5 x^4 + 3 x^3 + 4 x^2 + 8 x + 10```
 
 ```python
 args = [5, 3, 4, 8, 10]
