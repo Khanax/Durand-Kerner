@@ -5,7 +5,7 @@ Note that there are limitations that have not beed resolved..such as exploding c
 
 # Example
 
-To find the roots for ```math   5 x^4 + 3 x^3 + 4 x^2 + 8 x + 10```
+To find the roots for ```  5 x^4 + 3 x^3 + 4 x^2 + 8 x + 10```
 
 ```python
 args = [5, 3, 4, 8, 10]
@@ -31,7 +31,7 @@ roots = Durand_Kerner(args, polyeval, ITERATIONS)
 # A Crazy Case
 
 To find the roots for 
-```math
+```
 87x^20 + 54x^19 -13x^18 + 120x^17 + 14x^16 + 23x^15 + 51x^14 - 312x^13+ 35x^12 + 43x^11 + 3x^10 
 + 213x^9 + 43x^8 + x^7 + 32x^6 +  98x^5 + 123x^4 +  90x^3 + 2x^2 + 1x + 823
 ```
